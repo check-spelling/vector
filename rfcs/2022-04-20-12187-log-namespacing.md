@@ -8,7 +8,7 @@ The event data should be restructured to prevent collisions, and in general make
 
 1. The schema / type should be known in all cases when using the "Vector" namespace
 2. The "Global Log Schema" should be ignored
-3. Users can opt in to the new namespace on a per-source basis (as well as globally)
+3. Users can opt-in to the new namespace on a per-source basis (as well as globally)
 
 ## Proposal
 

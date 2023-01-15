@@ -23,7 +23,7 @@ implementation before making it the default, as well to provide us time to write
 documentation and migration procedures and so on.
 
 We called the new implementation `disk_v2` to distinguish it from `disk`. You were able to specify
-this in your buffer configuration to opt in to using them when in beta. Now that we're comfortable
+this in your buffer configuration to opt-in to using them when in beta. Now that we're comfortable
 marking the new implementation as stable, we've changed their name so that `disk_v2` is now `disk`,
 and what used to be `disk` is now `disk_v1`.
 

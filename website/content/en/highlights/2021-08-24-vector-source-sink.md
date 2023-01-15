@@ -28,7 +28,7 @@ which version they want to use, but continue to support `v1`. In `0.22.0` we'll
 drop `v1` completely, and default to `v2`. We will also no longer require you to
 explicitly set the version since there will only be one supported going forward.
 
-If you want to opt in to the new (stable!) `v2` version, you can do so as
+If you want to opt-in to the new (stable!) `v2` version, you can do so as
 follows:
 
 ```diff
